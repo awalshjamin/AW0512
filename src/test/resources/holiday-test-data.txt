@@ -1,0 +1,10 @@
+New Year's Day,true,JANUARY,1,false,false,null,0
+Martin Luther King Jr. Day,false,JANUARY,0,true,false,MONDAY,3
+Presidents' Day,false,FEBRUARY,0,true,false,MONDAY,3
+Memorial Day,false,MAY,0,true,false,MONDAY,0
+Independence Day,true,JULY,4,true,false,null,0
+Labor Day,false,SEPTEMBER,0,false,true,MONDAY,1
+Columbus Day,false,OCTOBER,0,true,false,MONDAY,2
+Veterans Day,true,NOVEMBER,11,false,false,null,0
+Thanksgiving Day,false,NOVEMBER,4,true,true,THURSDAY,4
+Christmas Day,true,DECEMBER,25,false,false,null,0

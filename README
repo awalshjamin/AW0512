@@ -1,0 +1,7 @@
+This is a Java application.  It has been tested using Java 19 and this project relies on Maven to build.
+
+To build the project, cd into the directory that has the pom.xml.  This should be the base direcotry that you extracted the zip to.
+
+From a terminal window, execute "mvn clean compile package".  This will compile the Java code.
+
+------------------------------
